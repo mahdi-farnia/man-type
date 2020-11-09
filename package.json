@@ -1,0 +1,30 @@
+{
+  "name": "man-type",
+  "version": "0.0.1",
+  "description": "small customizable type check library",
+  "main": "index.js",
+  "scripts": {
+    "test": "node __test__/index.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mahdi-farnia/man-type.git"
+  },
+  "keywords": [
+    "type-check",
+    "type",
+    "check",
+    "test",
+    "man-type"
+  ],
+  "author": "Mahdi Farnia",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mahdi-farnia/man-type/issues"
+  },
+  "homepage": "https://github.com/mahdi-farnia/man-type#readme",
+  "devDependencies": {
+    "@types/node": "^14.14.6"
+  },
+  "dependencies": {}
+}
